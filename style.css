@@ -371,7 +371,7 @@ footer{
 }
 @media screen and (max-width:480px){
 .nav{
-    transform: translateY(130%);
+    transform: translateY(160%);
 }
 .bio{
     margin: 0 70;
