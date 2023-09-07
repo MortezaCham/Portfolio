@@ -151,6 +151,9 @@ html{
     border-radius: 6px;
     box-shadow: 0px 2px 15px 2px var(--border-color);
 }
+.skill-container{
+    margin: 0px 25px;
+}
 .skill-title{
     justify-content: center;
     text-align: center;
@@ -166,8 +169,11 @@ html{
     display: inline-block;
     vertical-align: top;
 }
+.stars{
+    margin-bottom: 10px;
+}
 .star{ 
-    margin-bottom: 15px;
+    margin:0px;
     width: 20px;
     height: 20px;
 }
